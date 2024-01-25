@@ -1,0 +1,26 @@
+{
+  "languages" : "Тиллар",
+  "chooseLanguage" : "Тил танланг",
+  "signUp" : "Рўйхатдан ўтиш",
+  "firstName" : "Исм",
+  "enterFirstName" : "Исмингизни киритинг",
+  "lastName" : "Фамилия",
+  "enterLastName" : "Фамилиянгизни киритинг",
+  "phoneNumber" : "Телефон рақам",
+  "password" : "Парол",
+  "enterPassword" : "Паролингизни киритинг",
+  "confirmPassword" : "Паролни тасдиқланг",
+  "enterConfirmPassword" : "Тасдиқлаш паролингизни киритинг",
+  "required" : "Киритиш шарт",
+  "suitablePassword" : "Парол мос келмади",
+  "save" : "Сақлаш",
+
+  "newAds" : "Янги рекламалар",
+  "title" : "Сарлавҳа",
+  "enterProductTitle" : "Маҳсулот номини киритинг",
+  "description" : "Тавсиф",
+  "enterDescription" : "Тавсифни киритинг",
+  "changeLocation" : "Жойлашувни ўзгартириш",
+  "addressLocation" : "Манзил бўйича",
+  "enterMapAddress" : "Харита манзилини киритинг"
+}
